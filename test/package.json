@@ -1,0 +1,8 @@
+{
+  "name": "license-manager-test",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/client": "2.2.0"
+  }
+}
